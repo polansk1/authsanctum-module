@@ -16,6 +16,9 @@
             }
         }
     },
+    "require": {
+        "laravel/sanctum": "^2.10"
+    },
     "autoload": {
         "psr-4": {
             "Modules\\AuthSanctum\\": ""
